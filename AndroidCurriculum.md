@@ -177,4 +177,4 @@ ___
  
 ###### For more details on Android Development, Visit the Official Documentation Site
 
-[Android Documentation](https:developer.android.com "developer.android.com")
+[Android Documentation](https://developer.android.com "developer.android.com")
