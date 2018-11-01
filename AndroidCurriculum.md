@@ -1,4 +1,4 @@
-#Android Development Curriculum
+# Android Development Curriculum
 ![android logo](android-logo.jpg "Android logo")
 ---
 ___
@@ -13,7 +13,7 @@ ___
 - ***The Android Market***
 - ***Different tools for Writing an Android Application***
 
-###Setting Up Development Environment
+### Setting Up Development Environment
 - ***Downloading and Installing Android Studio***
 - ***Downloading and Installing the Android SDK***
 - ***Creating Virtual device and Installing ADB***
@@ -21,7 +21,7 @@ ___
 - ***Component of an Android Application***
 - ***Analysis of our First Android Application***
 
-###Activities and Intents
+### Activities and Intents
 - ***What is an Activity?***
 - ***Applying styles and themes to an activity***
 - ***Hiding the Activity Title and Action Bar***
@@ -37,7 +37,7 @@ ___
 - ***Using Intent Filter***
 - ***Adding Categories***
 
-###Android User Interface
+### Android User Interface
 - ***Understanding the Components of a Screen***
 - ***Views and ViewGroups***
 - ***FrameLayout***
@@ -57,52 +57,52 @@ ___
 - ***Overriding Methods Defined in an Activity***
 - ***Registering Events for Views***
 
-###Designing User Interface Using Views
-#####Basic Views
+### Designing User Interface Using Views
+##### Basic Views
 - ***TextView***
 - ***Button, ImageButton, CheckBox, ToggleButton, RadioButtons and RadioGroups***
 - ***ProgressBar***
 - ***AutoCompleteTextView***
 
-#####Picker Views
+##### Picker Views
 - ***TimePicker View and Displaying View in a Dialog Window***
 - ***DatePicker View and Displaying View in a Dialog Window***
 
-#####List Views
+##### List Views
 - ***ListView***
 - ***Customizing ListView***
 - ***RecyclerView***
 - ***GridView***
 - ***Spinners***
 
-###Displaying Pictures and Menus with Views
-#####Using Image Views to Display Pictures
+### Displaying Pictures and Menus with Views
+##### Using Image Views to Display Pictures
 - ***Gallery and ImageView***
 - ***ImageSwitcher***
 - ***GridView***
 
-#####Using Menus with Views
+##### Using Menus with Views
 - ***Creating the Helper Methods***
 - ***Options Menu***
 - ***Context Menu***
 
-#####Additional Views
+##### Additional Views
 - ***AnalogClock and Digital Clock Views***
 - ***WebViews***
 - ***Fragments***
 
-###Data Persistence
-#####Saving and Loading User Preferences
+### Data Persistence
+##### Saving and Loading User Preferences
 - ***Using getSharedPreferences()***
 - ***Using getPreferences()***
 
-#####Persisting Data to Files
+##### Persisting Data to Files
 - ***Saving to Internal Storage***
 - ***Saving to External Storage (SD card)***
 - ***Choosing the Best Storage Option***
 - ***Using static Resources***
 
-#####Creating and Using Databases
+##### Creating and Using Databases
 - ***SQLite Database***
 - ***Creating the DBAdapter Helper Class***
 - ***Using Database Programmatically***
@@ -115,18 +115,18 @@ ___
 - ***Pre-Creating the Database with an Application***
 - ***Bundling the Database with an Application***
 
-###Content Providers
-#####Sharing Data in androis=d Using a Content Provider
+### Content Providers
+##### Sharing Data in androis=d Using a Content Provider
 - ***Predefined Query String Constants***
 - ***Projections***
 - ***Filtering***
 - ***Sorting***
 
-#####Cresting Your Own Content Providers
+##### Cresting Your Own Content Providers
 - ***Using the content Provider***
 
-###Messaging and Networking
-#####SMS Messaging
+### Messaging and Networking
+##### SMS Messaging
 - ***Sending SMS Messages Proigammatically***
 - ***Getting Feedback after sending the Messages***
 - ***Sending SMS Messages Using Intent***
@@ -135,15 +135,15 @@ ___
 - ***Invoking an Activity from a broadcastReciever***
 - ***Caveats and Warnings***
 
-#####Sending E-Mail
-#####Networking
+##### Sending E-Mail
+##### Networking
 - ***Downloading the Binary Data***
 - ***Downloading Text Files***
 - ***Accessing Web Services***
 - ***Performing Asynchronous Calls***
 
-###Location-Based Services
-#####Displaying Maps
+### Location-Based Services
+##### Displaying Maps
 - ***Creating the Project***
 - ***Obtaining the Maps API Key***
 - ***Displaying the Map***
@@ -154,27 +154,27 @@ ___
 - ***Getting The Location Thatb Was Touched***
 - ***Geocoding and Reverse Geocoding***
 
-#####Getting Location Data
+##### Getting Location Data
 - ***Monitoring a Location***
 
-###Developing Android Services
-#####Creating Your Own Services
+### Developing Android Services
+##### Creating Your Own Services
 - ***Performing Long Running Task in a Service***
 - ***Executing Asynchronous Task on Separate Threads Using IntentService***
 
-#####Communicating between a Service and an Activity
-#####Binding Activities to Services
+##### Communicating between a Service and an Activity
+##### Binding Activities to Services
 
-###Publishing Android Applications
-#####Preparing for Publishing
+### Publishing Android Applications
+##### Preparing for Publishing
 - ***Versioning***
 - ***Digitally Signing your Android Applications***
 
-#####Deploying APK Files
+##### Deploying APK Files
 - ***Publishing on the Android Market***
 - ***Creating a Developer Profile***
 - ***Submitting Your App***
  
-######For more details on Android Development, Visit the Official Documentation Site
+###### For more details on Android Development, Visit the Official Documentation Site
 
 [Android Documentation](https:developer.android.com "developer.android.com")
