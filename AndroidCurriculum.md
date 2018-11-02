@@ -1,7 +1,5 @@
 # Android Development Curriculum
-![android logo](android-logo.jpg "Android logo")
----
-___
+![android logo](img/android-logo.jpg)
 
 ### What is Android?
 	
